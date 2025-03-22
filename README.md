@@ -1,7 +1,5 @@
 # DRINK
 
-DRINK is a mobile application that provides personalized drink recommendations.
-Built using **Flutter** and **Dart**, it offers a fun and user-friendly experience for discovering new drinks based on user preferences.
 
 ## Screenshots
 
@@ -12,44 +10,3 @@ Built using **Flutter** and **Dart**, it offers a fun and user-friendly experien
 ![ss1](https://github.com/user-attachments/assets/1085b2ff-db22-440e-9ff8-83b8b08fdf76)
 ![ss5](https://github.com/user-attachments/assets/593f4fbe-8dff-4bf7-98b8-e7d64cf1ce8a)
 ![ss2](https://github.com/user-attachments/assets/7413a98a-3d49-43d0-9847-f81b35e4811b)
-
-## Features
-  - **Randomized Drink Recommendations:**  Enjoy personalized drink suggestions with every click.
-  - **Smooth Transitions:** Optimized for fluid navigation between screens.
-  - **Dynamic Button Loading:** Prevent accidental taps during recommendation processing.
-  - **Modern UI Design:**  Sleek, minimalist and intuitive interface for easy usage.
-
-## How to Install and Use the APP
-Install the apk from [**releases**](https://github.com/Oguzhankokulu/DRINK-APP/releases) tab.
-
-## How to Run the Code
-  ### Prerequisites
-  - Install Flutter SDK
-  - Compatible IDE (e.g., VSCode, Android Studio)
-  ### Steps
-  1. Clone the repository:
-  
-  ```
-  git clone https://github.com/Oguzhankokulu/DRINK-APP.git
-  cd DRINK-APP
-  ```
-  
-  2. Install dependencies:
-  
-  ```
-  flutter pub get
-  ```
-  
-  3. Run the App on a device or on an emulator:
-  
-  ```
-  flutter run
-  ```
-
-
-
-
-
-Developer: Ahmet Oğuzhan Kökülü
-
-Feel free to fork this project, develop and send pull requests.
